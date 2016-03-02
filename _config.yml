@@ -8,8 +8,8 @@ highlighter: pygments
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Data Mining 2016
-tagline: FTIK - Online Data Mining Course Material 2016
+title : Arsitektur Sistem Informasi - 2016
+tagline: FTIK - Online Information Systems Architecture Course Material 2016
 author :
   name : khal
   email : khal.rahman@gmail.com
