@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Welcome!
-tagline: Information Systems Architecture 2016
+tagline: IT Arsitektur 2016
 ---
 
 
